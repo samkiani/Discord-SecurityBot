@@ -1,4 +1,4 @@
-# Security
+# Discord-Security
 A simple security bot with a lot of features
 like:
 - Members , Bots , Onmic counter
@@ -8,7 +8,7 @@ like:
 - Clear command
 - Ban , Unban , Unbanall commands
 
-## setup
+## Setup
 - Change values of CONFIG class in the code
 - The channel ID is for connecting the bot to the voice channel
 ```python
