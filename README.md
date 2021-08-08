@@ -1,4 +1,4 @@
-# Discord-Security
+# Discord-SecurityBot
 A simple security bot with a lot of features
 like:
 - Members , Bots , Onmic counter
